@@ -1,3 +1,3 @@
-- <strong>H. Zhang</strong>, J. Liang, J. Liang, M. Fu, H. Wang*. "Wide Voltage Range Efficiency Enhancement Scheme for Input-Parallel-Output-Series DAB Converters in 800V DC Microgrids," <strong>IEEE Trans. Power Electron</strong>., in press.
+- [J1] <strong>H. Zhang</strong>, J. Liang, J. Liang, M. Fu, H. Wang*. "Wide Voltage Range Efficiency Enhancement Scheme for Input-Parallel-Output-Series DAB Converters in 800V DC Microgrids," <strong>IEEE Trans. Power Electron</strong>., in press.
 
-- <strong>H. Zhang</strong>, L. Wang, and H. Wang*, "Stacked-bridge-based three-level DAB converter in 800V dc micro-grids," in Proc. <strong>IEEE Appl. Power Electron. Conf. Expo. (APEC)</strong>, Orlando, FL, Mar. 2023, pp. 1384-1390. [[Paper]](https://ieeexplore.ieee.org/document/10131446)
+- [C1] <strong>H. Zhang</strong>, L. Wang, and H. Wang*, "Stacked-bridge-based three-level DAB converter in 800V dc micro-grids," in Proc. <strong>IEEE Appl. Power Electron. Conf. Expo. (APEC)</strong>, Orlando, FL, Mar. 2023, pp. 1384-1390. [[URL]](https://ieeexplore.ieee.org/document/10131446)
