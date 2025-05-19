@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+<!-- [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073) -->
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Haoyu Zhang received the B.S. degree in electronic information engineering in 2022 from ShanghaiTech University, Shanghai, China, where he is currently working toward the Ph.D. degree in electrical engineering with the Power Electronics and Renewable Energies Laboratory ([PEARL](https://pearl.shanghaitech.edu.cn/)), School of Information Science and Technology. 
 
 #### Email
-sli[at]cumt.edu.cn
+zhanghy2022@shanghaitech.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Electrical Engineering, ShanghaiTech University, 2022—2027 (expected).\
+B.E., Electronic Information Engineering, ShanghaiTech University, 2018—2022.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Bidirectional power converters for energy storage systems (ESS) and electric vehicles (EV).
 
